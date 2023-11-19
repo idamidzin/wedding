@@ -18,3 +18,4 @@ yarn-error.log
 /public/gallery.html
 /public/index.html
 /public/service.html
+.vercel
